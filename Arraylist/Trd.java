@@ -1,6 +1,9 @@
 import java.util.*;
 
 public class Trd {
+    
+    // This program finds the maximum element in an ArrayList of integers.
+
     public static void main(String[] args) {
         ArrayList <Integer> list = new ArrayList<> ();
         list.add(2);
